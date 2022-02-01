@@ -1,0 +1,26 @@
+font-family: 'Source Serif 4', sans-serif;
+font-family: 'Varela Round', sans-serif;
+
+//The <div> tag defines a division or a section
+//in an HTML document. The <div> tag is used as
+//a container for HTML elements.
+
+//span tag
+The span tag is a paired tag means it has both open(<)
+and closing (>) tags, and it is mandatory to close the
+tag.The span tag is used for the grouping of inline 
+elements & this tag does not make any visual change by itself. 
+span is very similar to the div tag, but div is a block-level tag
+and span is an inline tag.
+
+//OPACITY IN CSS
+The opacity in CSS is the property of an element that describes
+the transparency of the element. It is the opposite of transparency
+& represents the degree to which the content will be hidden behind 
+an element.
+
+//Image Opacity: 
+The opacity property is used in the image to describe the transparency
+of the image. The value of opacity lies between 0.0 to 1.0 where a low
+value represents high transparency and a high value represents low
+transparency. The percentage of opacity is calculated as Opacity% = Opacity * 100.
