@@ -9,7 +9,7 @@ let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('gif');
 let songItems = Array.from(document.getElementsByClassName('songItem'));//because it is a html connection
 let masterSongName = document.getElementById("masterSongName");
-let songs = [
+let songs = [  
   {
     songName: "Namo Namo",
     filePath: "songs/0.mp3",
